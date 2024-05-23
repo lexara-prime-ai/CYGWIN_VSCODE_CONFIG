@@ -1,2 +1,2 @@
-# CYGWIN_VSCODE_CONFIG
-Using Terminal Profiles in Visual Studio Code.
+## CygWin Terminal configuration for Visual Studio Code
+**CygWin** can be integrated with Visual Studio Code via **_Terminal Profiles_**.
